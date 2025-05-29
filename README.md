@@ -5,6 +5,9 @@
 Este es el repositorio de las clases impartidas durante el trimestre 
 
 Temas
+
 -JAVASCRIPT
+
 -CSS
+
 -HTML
